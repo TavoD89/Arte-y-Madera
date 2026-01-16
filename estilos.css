@@ -40,9 +40,9 @@ footer {
 
 body {
   background-image: url(imagenes/O6DY5H0.jpg) ;
-  background-repeat: no-repeat; /* Evita que la imagen se repita */
-  background-size: cover;      /* Cubre todo el fondo */
-  background-position: center; /* Centra la imagen en la pantalla */
+  background-repeat: no-repeat; 
+  background-size: cover;     
+  background-position: center; 
 }
 
 .contenedor {
@@ -74,3 +74,4 @@ body {
   text-decoration: none;
   color: black;
 }
+
