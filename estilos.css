@@ -1,0 +1,76 @@
+.titulo-textura-madera {
+  font-style:oblique;
+  font-size: 5em;
+  background-image: url(imagenes/6464298.jpg);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+.titulo-textura-madera-2 {
+  font-style: oblique;
+  font-size: 2em;
+  background-image: url(imagenes/6464298.jpg);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.titulo-textura-madera-3 {
+  background-image: url(imagenes/6464298.jpg);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-size: 2em;
+  font-style: oblique;
+}
+
+p, li, footer {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+footer {
+  text-align: center;
+}
+
+body {
+  background-image: url(imagenes/O6DY5H0.jpg) ;
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  background-size: cover;      /* Cubre todo el fondo */
+  background-position: center; /* Centra la imagen en la pantalla */
+}
+
+.contenedor {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.servicios {
+  width: 300px;
+  background-color: white;
+  padding: 10px;
+  margin: auto;
+}
+
+.nota {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  border-radius: 2%;
+  text-align: center;
+  rotate: -10deg;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  margin: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#tiktok {
+  text-decoration: none;
+  color: black;
+}
